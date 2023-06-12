@@ -1,0 +1,36 @@
+.header {
+    text-align: center;
+    justify-content: space-evenly;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color:teal;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.home-con{
+    float: left;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.about-con{
+    float:right;
+    color: white;
+    text-decoration: none;
+}
+
+.contact-con{
+    float:right;
+    color: white;
+    text-decoration: none;
+}
+
+.book-con{
+    float:right;
+    color: white;
+    text-decoration: none;
+}
